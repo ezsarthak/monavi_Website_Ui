@@ -66,7 +66,7 @@ export default function SpecialistsSection1() {
           className="rt-teams-image-wrapper"
         >
           <Image 
-            src="/images/monavi/receptionist_using_software_1781317951601.png"
+            src="/images/monavi/receptionist_using_software_1781317951601.webp"
             loading="lazy"
             width={1920}
             height={740}

@@ -40,7 +40,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-3"
             >
               <Image 
-                src="/monavi/Automated_Reminders.png"
+                src="/monavi/Automated_Reminders.webp"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -52,7 +52,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-4"
             >
               <Image 
-                src="/monavi/Smart_Analytics_service_page.png"
+                src="/monavi/Smart_Analytics_service_page.webp"
                 loading="lazy"
                 width={528}
                 height={550}

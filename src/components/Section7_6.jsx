@@ -50,7 +50,7 @@ export default function Section7_6() {
             data-wf-ignore="true"
             className="rt-video rt-overflow-hidden rt-border-radius-10 w-background-video w-background-video-atom"
           >
-            <Image width={800} height={600}  src="/images/monavi/patient_mobile_app_1781317975329.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
+            <Image width={800} height={600}  src="/images/monavi/patient_mobile_app_1781317975329.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
             <div className="w-layout-vflex rt-play-pause-button-wrapper">
               <div className="w-layout-vflex rt-button-inner">
                 <noscript>
@@ -63,7 +63,7 @@ export default function Section7_6() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
+                  src="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.webp"
                   alt=""&gt;
                 </noscript>
                 <div aria-live="polite">

@@ -6,7 +6,7 @@ export default function HeroSection_0() {
     <section className="monavi-hero-section">
       {/* Background Image covering right side & overall aesthetic */}
       <img 
-        src="/monavi/new_bg.png" 
+        src="/monavi/new_bg.webp" 
         alt="Hero Background" 
         className="monavi-hero-bg" 
       />

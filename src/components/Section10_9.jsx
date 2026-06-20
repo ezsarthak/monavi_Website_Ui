@@ -13,7 +13,7 @@ export default function Section10_9() {
               style={{ position: 'relative', height: '100%', minHeight: '400px' }}
             >
               <Image width={800} height={600} 
-                src="/monavi/Workflow_Automation_service_page.png"
+                src="/monavi/Workflow_Automation_service_page.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 608px"
                 alt="monavi-image"

@@ -99,7 +99,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/patient_mobile_app_1781317975329.png"
+                          src="/images/monavi/patient_mobile_app_1781317975329.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -190,7 +190,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
+                          src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -282,7 +282,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                         <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                           <Image 
-                            src="/images/monavi/receptionist_using_software_1781317951601.png"
+                            src="/images/monavi/receptionist_using_software_1781317951601.webp"
                             loading="lazy"
                             width={50}
                             height={50}
@@ -376,7 +376,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/doctor_digital_prescription_1781317963970.png"
+                          src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -467,7 +467,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/patient_mobile_app_1781317975329.png"
+                          src="/images/monavi/patient_mobile_app_1781317975329.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -558,7 +558,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
+                          src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -667,7 +667,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/receptionist_using_software_1781317951601.png"
+                              src="/images/monavi/receptionist_using_software_1781317951601.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -760,7 +760,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/doctor_digital_prescription_1781317963970.png"
+                              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -854,7 +854,7 @@ export default function Section14_13() {
                           <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                             <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                               <Image 
-                                src="/images/monavi/patient_mobile_app_1781317975329.png"
+                                src="/images/monavi/patient_mobile_app_1781317975329.webp"
                                 loading="lazy"
                                 width={50}
                                 height={50}
@@ -948,7 +948,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
+                              src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -1041,7 +1041,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/receptionist_using_software_1781317951601.png"
+                              src="/images/monavi/receptionist_using_software_1781317951601.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -1134,7 +1134,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/doctor_digital_prescription_1781317963970.png"
+                              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
                               loading="lazy"
                               width={50}
                               height={50}

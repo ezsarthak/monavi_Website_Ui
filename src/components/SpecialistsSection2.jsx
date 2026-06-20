@@ -9,7 +9,7 @@ export default function SpecialistsSection2() {
           <div className="w-layout-hflex rt-teams-details-top-content rt-top-content-gap">
             <div className="w-layout-vflex rt-teams-details-top-left rt-position-relative rt-border-radius-10">
               <Image 
-                src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
+                src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
                 width={520}
                 height={593}
                 alt="woman-doctor"
