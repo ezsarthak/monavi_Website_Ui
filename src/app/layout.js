@@ -41,6 +41,8 @@ export default function RootLayout({ children }) {
           rel="preconnect"
           crossOrigin="anonymous"
         />
+        <link rel="preload" as="image" href="/monavi/new_bg.webp" />
+        <link rel="preload" as="image" href="/monavi/monavi_logo.webp" />
         <Script src="/js/webfont.js" strategy="afterInteractive" />
         <Script src="/js/jquery-3.5.1.min.dc5e7f18c8.js" strategy="beforeInteractive" />
         <Script src="/js/webflow.schunk.36b8fb49256177c8.js" strategy="beforeInteractive" />
