@@ -42,75 +42,8 @@ export default function Section7_6() {
             </a>
           </div>
           <div className="rt-videoback" />
-          <div
-            data-poster-url="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
-            data-video-urls="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_webm.webm"
-            data-autoplay="true"
-            data-loop="true"
-            data-wf-ignore="true"
-            className="rt-video rt-overflow-hidden rt-border-radius-10 w-background-video w-background-video-atom"
-          >
+          <div className="rt-video rt-overflow-hidden rt-border-radius-10">
             <Image width={800} height={600}  src="/images/monavi/patient_mobile_app_1781317975329.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
-            <div className="w-layout-vflex rt-play-pause-button-wrapper">
-              <div className="w-layout-vflex rt-button-inner">
-                <noscript>
-                  &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
-                  display: none;
-                  {"}"}
-                  @media (prefers-reduced-motion: reduce) {"{"}
-                  [data-wf-bgvideo-fallback-img] {"{"}
-                  position: absolute; z-index: -100; display: inline-block;
-                  height: 100%; width: 100%; object-fit: cover;
-                  {"}"}
-                  {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.webp"
-                  alt=""&gt;
-                </noscript>
-                <div aria-live="polite">
-                  <button
-                    type="button"
-                    data-w-bg-video-control="true"
-                    aria-controls="0176446e-0dbb-9f8a-7f4e-47a56f91746b-video"
-                    className="w-backgroundvideo-backgroundvideoplaypausebutton rt-play-pause-wraper w-background-video--control"
-                  >
-                    <span>
-                      <Image 
-                        width={21}
-                        height={26}
-                        alt="Pause video"
-                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play_Icon.svg"
-                        loading="lazy"
-                        className="rt-play-icon"
-                      />
-                    </span>
-                    <span hidden>
-                      <Image 
-                        width={21}
-                        height={26}
-                        alt="Pause video"
-                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play_Icon.svg"
-                        loading="lazy"
-                        className="rt-play-icon"
-                      />
-                    </span>
-                  </button>
-                </div>
-              </div>
-              <div
-                className="rt-lottie-effect"
-                data-w-id="48df1fcc-9f11-ed94-b1a1-c35d82ed2ef2"
-                data-animation-type="lottie"
-                data-src="/assets/696f017270bc35c55e784979_698f2777331ff3b1bd4663b1_FT7jDXnwcw_20_1_.json"
-                data-loop={1}
-                data-direction={1}
-                data-autoplay={1}
-                data-is-ix2-target={0}
-                data-renderer="svg"
-                data-default-duration={0}
-                data-duration={4}
-                data-loading="eager"
-              />
-            </div>
           </div>
         </div>
       </section>
