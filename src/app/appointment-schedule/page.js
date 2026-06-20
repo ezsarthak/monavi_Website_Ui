@@ -2,10 +2,14 @@ import React from "react";
 import WebflowPageId from "@/components/WebflowPageId";
 import AppointmentscheduleSection1 from "@/components/AppointmentscheduleSection1";
 import AppointmentscheduleSection2 from "@/components/AppointmentscheduleSection2";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function AppointmentschedulePage() {
   return (
     <>
+      <WebflowInit pageId="696f025ba97f575be0c3ef18" />
+
       <WebflowPageId pageId="696f025ba97f575be0c3ef18" />
       <style
         dangerouslySetInnerHTML={{

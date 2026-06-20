@@ -3,10 +3,14 @@ import WebflowPageId from "@/components/WebflowPageId";
 import ServiceSection1 from "@/components/ServiceSection1";
 import ServiceSection2 from "@/components/ServiceSection2";
 import ServiceSection3 from "@/components/ServiceSection3";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function ServicePage() {
   return (
     <>
+      <WebflowInit pageId="696f01f6cab64a4ff5fb1fad" />
+
       <WebflowPageId pageId="696f01f6cab64a4ff5fb1fad" />
       <style
         dangerouslySetInnerHTML={{

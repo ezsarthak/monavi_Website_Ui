@@ -126,11 +126,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -138,11 +134,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -238,11 +230,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -250,11 +238,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -349,11 +333,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -361,11 +341,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -474,11 +450,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -486,11 +458,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -586,11 +554,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -598,11 +562,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -697,11 +657,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -709,11 +665,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -822,11 +774,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -834,11 +782,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -934,11 +878,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -946,11 +886,7 @@ export default function ServicesSection_2() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-<<<<<<< HEAD
                             src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -1045,11 +981,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -1057,11 +989,7 @@ export default function ServicesSection_2() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-<<<<<<< HEAD
                           src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
-=======
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           alt="arrow"
                           className="rt-button-arrow"
                         />

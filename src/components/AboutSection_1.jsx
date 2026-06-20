@@ -84,11 +84,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-<<<<<<< HEAD
                       src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
-=======
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                       loading="lazy"
                       width={7}
                       height={7}
@@ -125,11 +121,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-<<<<<<< HEAD
                       src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
-=======
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                       loading="lazy"
                       width={7}
                       height={7}
@@ -166,11 +158,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-<<<<<<< HEAD
                       src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
-=======
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                       loading="lazy"
                       width={7}
                       height={7}
@@ -207,11 +195,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-<<<<<<< HEAD
                       src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
-=======
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                       loading="lazy"
                       width={7}
                       height={7}

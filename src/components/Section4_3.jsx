@@ -34,31 +34,6 @@ export default function Section4_3() {
           </div>
           <div className="w-layout-hflex rt-counter-bottom-wrapper">
             <div
-<<<<<<< HEAD
-=======
-              data-w-id="15f622bf-81a7-7420-b236-c55478740cf5"
-              
-              className="w-layout-vflex rt-counter-item-card-one rt-mobile-text-center"
-            >
-              <div className="rt-counter-icon-gap">
-                <Image 
-                  src="/fonts/697304590d52897b1a291422_Healh_Care.svg"
-                  loading="lazy"
-                  width={61}
-                  height={61}
-                  alt="Health Care"
-                />
-              </div>
-              <div className="rt-counter-line rt-counter-line-gap" />
-              <div className="rt-text-style-h6 rt-counter-title-gap">
-                Built For Receptionists
-              </div>
-              <p className="rt-gap-off rt-secondary-text-color">
-                Appointment scheduling, queue management and patient communication.
-              </p>
-            </div>
-            <div
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
               data-w-id="44dcd10b-122d-955e-ff8c-1f54b45e48cc"
               
               className="w-layout-vflex rt-counter-item-card-one rt-mobile-text-center"
@@ -87,31 +62,6 @@ export default function Section4_3() {
             >
               <div className="rt-counter-icon-gap">
                 <Image 
-<<<<<<< HEAD
-=======
-                  src="/fonts/6973045909e28a21e06686bf_Client_Satisfaction.svg"
-                  loading="lazy"
-                  width={58}
-                  height={60}
-                  alt="Client Satisfaction"
-                />
-              </div>
-              <div className="rt-counter-line rt-counter-line-gap" />
-              <div className="rt-text-style-h6 rt-counter-title-gap">
-                Built For Clinics
-              </div>
-              <p className="rt-gap-off rt-secondary-text-color">
-                Improved retention and smoother operations.
-              </p>
-            </div>
-            <div
-              data-w-id="a6978c81-ba19-6dc2-4c5a-f3651f551f18"
-              
-              className="w-layout-vflex rt-counter-item-card-one rt-counter-item-card-one-v2 rt-mobile-text-center"
-            >
-              <div className="rt-counter-icon-gap">
-                <Image 
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                   src="/fonts/6973045976366a0092ddf7f1_Medical_Specialist.svg"
                   loading="lazy"
                   width={60}

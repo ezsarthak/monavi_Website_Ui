@@ -3,10 +3,14 @@ import WebflowPageId from "@/components/WebflowPageId";
 import ContactSection1 from "@/components/ContactSection1";
 import ContactSection2 from "@/components/ContactSection2";
 import ContactSection3 from "@/components/ContactSection3";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function ContactPage() {
   return (
     <>
+      <WebflowInit pageId="696f0209b959d237a91abfed" />
+
       <WebflowPageId pageId="696f0209b959d237a91abfed" />
       <style
         dangerouslySetInnerHTML={{

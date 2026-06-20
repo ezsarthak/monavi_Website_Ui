@@ -11,49 +11,19 @@ export default function Section11_10() {
         >
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>
@@ -61,49 +31,19 @@ export default function Section11_10() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>
@@ -111,49 +51,19 @@ export default function Section11_10() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-<<<<<<< HEAD
-              <img src="/monavi/monavi_logo.png" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
-=======
-              <Image 
-                width={122}
-                height={121}
-                alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
-                loading="lazy"
-              />
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
+              <img src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>

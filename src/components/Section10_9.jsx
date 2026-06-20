@@ -13,11 +13,7 @@ export default function Section10_9() {
               style={{ position: 'relative', height: '100%', minHeight: '400px' }}
             >
               <Image width={800} height={600} 
-<<<<<<< HEAD
                 src="/monavi/Workflow_Automation_service_page.png"
-=======
-                src="/monavi/Workflow_Automation_service_page.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 608px"
                 alt="monavi-image"
@@ -53,11 +49,7 @@ export default function Section10_9() {
                 </div>
                 <div className="rt-heart-icon-wrapper">
                   <Image width={800} height={600} 
-<<<<<<< HEAD
                     src="/fonts/699d53a8f9eecfd18f9aa453_Group_16_1_.svg"
-=======
-                    src="/fonts/699d53a8f9eecfd18f9aa453_Group_16_1.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     loading="lazy"
                     alt="Heart Icon"
                   />

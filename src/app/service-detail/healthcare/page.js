@@ -5,10 +5,14 @@ import ServicedetailHealthcareSection2 from "@/components/ServicedetailHealthcar
 import ServicedetailHealthcareSection3 from "@/components/ServicedetailHealthcareSection3";
 import ServicedetailHealthcareSection4 from "@/components/ServicedetailHealthcareSection4";
 import ServicedetailHealthcareSection5 from "@/components/ServicedetailHealthcareSection5";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function ServicedetailHealthcarePage() {
   return (
     <>
+      <WebflowInit pageId="69aaa4399a441feb458a5088" />
+
       <WebflowPageId pageId="69aaa4399a441feb458a5088" />
       <style
         dangerouslySetInnerHTML={{

@@ -9,10 +9,14 @@ import AboutSection6 from "@/components/AboutSection6";
 import AboutSection7 from "@/components/AboutSection7";
 import AboutSection8 from "@/components/AboutSection8";
 import AboutSection9 from "@/components/AboutSection9";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function AboutPage() {
   return (
     <>
+      <WebflowInit pageId="696f01b8614d21a2a06b6ec4" />
+
       <WebflowPageId pageId="696f01b8614d21a2a06b6ec4" />
       <style
         dangerouslySetInnerHTML={{

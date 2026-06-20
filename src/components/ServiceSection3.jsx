@@ -41,11 +41,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-<<<<<<< HEAD
                     src="/monavi/Automated_Reminders.png"
-=======
-                    src="/monavi/Automated_Reminders.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -77,11 +73,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-<<<<<<< HEAD
                     src="/monavi/Waitlist_Management.png"
-=======
-                    src="/monavi/Waitlist_Management.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -113,11 +105,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-<<<<<<< HEAD
                     src="/monavi/Real-Time_Tracking.png"
-=======
-                    src="/monavi/Real-Time_Tracking.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -149,11 +137,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-<<<<<<< HEAD
                     src="/monavi/No-Show_Reduction.png"
-=======
-                    src="/monavi/No-Show_Reduction.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -185,11 +169,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-<<<<<<< HEAD
                     src="/monavi/Doctor_Dashboard.png"
-=======
-                    src="/monavi/Doctor_Dashboard.webp"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div

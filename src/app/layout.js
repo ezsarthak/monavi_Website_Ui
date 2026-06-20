@@ -33,7 +33,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning data-wf-site="696f017270bc35c55e784979" data-wf-page="696f017570bc35c55e7849ad">
       <head>
         <link href="https://fonts.googleapis.com" rel="preconnect" />
         <link
@@ -42,6 +42,12 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
         <Script src="/js/webfont.js" strategy="afterInteractive" />
+        <Script src="/js/jquery-3.5.1.min.dc5e7f18c8.js" strategy="beforeInteractive" />
+        <Script src="/js/webflow.schunk.36b8fb49256177c8.js" strategy="beforeInteractive" />
+        <Script src="/js/webflow.schunk.8208d3e53b97e3c7.js" strategy="beforeInteractive" />
+        <Script src="/js/webflow.schunk.57027dd40c40bf05.js" strategy="beforeInteractive" />
+        <Script src="/js/webflow.schunk.9dfb96661114d3db.js" strategy="beforeInteractive" />
+        <Script src="/js/webflow.53a613e1.0ca2f44de061a57d.js" strategy="beforeInteractive" />
       </head>
       <body suppressHydrationWarning>
         <Navbar />

@@ -46,11 +46,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -59,11 +55,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -72,11 +64,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -85,11 +73,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -98,11 +82,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -157,11 +137,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -170,11 +146,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -183,11 +155,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -196,11 +164,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -209,11 +173,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -269,11 +229,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                       <div className="w-layout-vflex">
                         <Image 
-<<<<<<< HEAD
                           src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           loading="lazy"
                           width={18}
                           height={17}
@@ -282,11 +238,7 @@ export default function Section14_13() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-<<<<<<< HEAD
                           src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           loading="lazy"
                           width={18}
                           height={17}
@@ -295,11 +247,7 @@ export default function Section14_13() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-<<<<<<< HEAD
                           src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           loading="lazy"
                           width={18}
                           height={17}
@@ -308,11 +256,7 @@ export default function Section14_13() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-<<<<<<< HEAD
                           src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           loading="lazy"
                           width={18}
                           height={17}
@@ -321,11 +265,7 @@ export default function Section14_13() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-<<<<<<< HEAD
                           src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                           loading="lazy"
                           width={18}
                           height={17}
@@ -383,11 +323,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -396,11 +332,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -409,11 +341,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -422,11 +350,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -435,11 +359,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -494,11 +414,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -507,11 +423,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -520,11 +432,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -533,11 +441,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -546,11 +450,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -605,11 +505,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -618,11 +514,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -631,11 +523,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -644,11 +532,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -657,11 +541,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-<<<<<<< HEAD
                         src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                         loading="lazy"
                         width={18}
                         height={17}
@@ -733,11 +613,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -746,11 +622,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -759,11 +631,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -772,11 +640,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -785,11 +649,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -847,11 +707,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -860,11 +716,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -873,11 +725,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -886,11 +734,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -899,11 +743,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -961,11 +801,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                           <div className="w-layout-vflex">
                             <Image 
-<<<<<<< HEAD
                               src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                               loading="lazy"
                               width={18}
                               height={17}
@@ -974,11 +810,7 @@ export default function Section14_13() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-<<<<<<< HEAD
                               src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                               loading="lazy"
                               width={18}
                               height={17}
@@ -987,11 +819,7 @@ export default function Section14_13() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-<<<<<<< HEAD
                               src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                               loading="lazy"
                               width={18}
                               height={17}
@@ -1000,11 +828,7 @@ export default function Section14_13() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-<<<<<<< HEAD
                               src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                               loading="lazy"
                               width={18}
                               height={17}
@@ -1013,11 +837,7 @@ export default function Section14_13() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-<<<<<<< HEAD
                               src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                               loading="lazy"
                               width={18}
                               height={17}
@@ -1075,11 +895,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1088,11 +904,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1101,11 +913,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1114,11 +922,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1127,11 +931,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1188,11 +988,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1201,11 +997,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1214,11 +1006,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1227,11 +1015,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1240,11 +1024,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1301,11 +1081,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1314,11 +1090,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1327,11 +1099,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1340,11 +1108,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1353,11 +1117,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-<<<<<<< HEAD
                             src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
-=======
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3.svg"
->>>>>>> a706319a8e4cb24c7cfc628342201e466a0fec67
                             loading="lazy"
                             width={18}
                             height={17}

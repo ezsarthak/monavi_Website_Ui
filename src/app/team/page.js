@@ -3,10 +3,14 @@ import WebflowPageId from "@/components/WebflowPageId";
 import SpecialistsSection1 from "@/components/SpecialistsSection1";
 import SpecialistsSection2 from "@/components/SpecialistsSection2";
 import SpecialistsSection3 from "@/components/SpecialistsSection3";
+import WebflowInit from "@/components/WebflowInit";
+
 
 export default function SpecialistsPage() {
   return (
     <>
+      <WebflowInit pageId="69b0f986d9336f4d79ab95a4" />
+
       <WebflowPageId pageId="696f01e79ad6d1ea44b3411e" />
       <style
         dangerouslySetInnerHTML={{

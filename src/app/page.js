@@ -14,11 +14,12 @@ const Section11_10 = dynamic(() => import("@/components/Section11_10"));
 const Section13_12 = dynamic(() => import("@/components/Section13_12"));
 const Section14_13 = dynamic(() => import("@/components/Section14_13"));
 
+import WebflowInit from "@/components/WebflowInit";
 
 export default function Home() {
   return (
     <>
-      <WebflowPageId pageId="696f017570bc35c55e7849ad" />
+      <WebflowInit pageId="696f017570bc35c55e7849ad" />
       <main>
         <HeroSection_0 />
         <AboutSection_1 />
