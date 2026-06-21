@@ -1,15 +1,15 @@
 import React from "react";
-import WebflowPageId from "@/components/WebflowPageId";
-import AboutSection1 from "@/components/AboutSection1";
-import AboutSection2 from "@/components/AboutSection2";
-import AboutSection3 from "@/components/AboutSection3";
+import WebflowPageId from "@/components/webflow/WebflowPageId";
+import AboutHero from "@/components/sections/about/AboutHero";
+import AboutMission from "@/components/sections/about/AboutMission";
+import AboutFeatures from "@/components/sections/about/AboutFeatures";
 
-import AboutSection5 from "@/components/AboutSection5";
-import AboutSection6 from "@/components/AboutSection6";
-import AboutSection7 from "@/components/AboutSection7";
-import AboutSection8 from "@/components/AboutSection8";
-import AboutSection9 from "@/components/AboutSection9";
-import WebflowInit from "@/components/WebflowInit";
+import AboutCta from "@/components/sections/about/AboutCta";
+import AboutLogoMarquee from "@/components/sections/about/AboutLogoMarquee";
+import AboutValues from "@/components/sections/about/AboutValues";
+import AboutTimeline from "@/components/sections/about/AboutTimeline";
+import AboutFooterMarquee from "@/components/sections/about/AboutFooterMarquee";
+import WebflowInit from "@/components/webflow/WebflowInit";
 
 
 export default function AboutPage() {
@@ -25,15 +25,15 @@ export default function AboutPage() {
         suppressHydrationWarning
       />
       <main>
-        <AboutSection1 />
-        <AboutSection2 />
-        <AboutSection3 />
+        <AboutHero />
+        <AboutMission />
+        <AboutFeatures />
 
-        <AboutSection5 />
-        <AboutSection6 />
-        <AboutSection7 />
-        <AboutSection8 />
-        <AboutSection9 />
+        <AboutCta />
+        <AboutLogoMarquee />
+        <AboutValues />
+        <AboutTimeline />
+        <AboutFooterMarquee />
       </main>
     </>
   );

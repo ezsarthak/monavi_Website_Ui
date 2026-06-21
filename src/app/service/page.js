@@ -1,9 +1,9 @@
 import React from "react";
-import WebflowPageId from "@/components/WebflowPageId";
-import ServiceSection1 from "@/components/ServiceSection1";
-import ServiceSection2 from "@/components/ServiceSection2";
-import ServiceSection3 from "@/components/ServiceSection3";
-import WebflowInit from "@/components/WebflowInit";
+import WebflowPageId from "@/components/webflow/WebflowPageId";
+import ServiceHero from "@/components/sections/service/ServiceHero";
+import ServiceGrid from "@/components/sections/service/ServiceGrid";
+import ServiceCta from "@/components/sections/service/ServiceCta";
+import WebflowInit from "@/components/webflow/WebflowInit";
 
 
 export default function ServicePage() {
@@ -19,9 +19,9 @@ export default function ServicePage() {
         suppressHydrationWarning
       />
       <main>
-        <ServiceSection1 />
-        <ServiceSection2 />
-        <ServiceSection3 />
+        <ServiceHero />
+        <ServiceGrid />
+        <ServiceCta />
       </main>
     </>
   );

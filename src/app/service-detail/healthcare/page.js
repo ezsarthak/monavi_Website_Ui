@@ -1,11 +1,11 @@
 import React from "react";
-import WebflowPageId from "@/components/WebflowPageId";
-import ServicedetailHealthcareSection1 from "@/components/ServicedetailHealthcareSection1";
-import ServicedetailHealthcareSection2 from "@/components/ServicedetailHealthcareSection2";
-import ServicedetailHealthcareSection3 from "@/components/ServicedetailHealthcareSection3";
-import ServicedetailHealthcareSection4 from "@/components/ServicedetailHealthcareSection4";
-import ServicedetailHealthcareSection5 from "@/components/ServicedetailHealthcareSection5";
-import WebflowInit from "@/components/WebflowInit";
+import WebflowPageId from "@/components/webflow/WebflowPageId";
+import ServiceDetailHero from "@/components/sections/service-detail/ServiceDetailHero";
+import ServiceDetailContent from "@/components/sections/service-detail/ServiceDetailContent";
+import ServiceDetailFeatures from "@/components/sections/service-detail/ServiceDetailFeatures";
+import ServiceDetailGrid from "@/components/sections/service-detail/ServiceDetailGrid";
+import ServiceDetailCta from "@/components/sections/service-detail/ServiceDetailCta";
+import WebflowInit from "@/components/webflow/WebflowInit";
 
 
 export default function ServicedetailHealthcarePage() {
@@ -21,11 +21,11 @@ export default function ServicedetailHealthcarePage() {
         suppressHydrationWarning
       />
       <main>
-        <ServicedetailHealthcareSection1 />
-        <ServicedetailHealthcareSection2 />
-        <ServicedetailHealthcareSection3 />
-        <ServicedetailHealthcareSection4 />
-        <ServicedetailHealthcareSection5 />
+        <ServiceDetailHero />
+        <ServiceDetailContent />
+        <ServiceDetailFeatures />
+        <ServiceDetailGrid />
+        <ServiceDetailCta />
       </main>
     </>
   );

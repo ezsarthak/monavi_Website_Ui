@@ -1,9 +1,9 @@
 import React from "react";
-import WebflowPageId from "@/components/WebflowPageId";
-import ContactSection1 from "@/components/ContactSection1";
-import ContactSection2 from "@/components/ContactSection2";
-import ContactSection3 from "@/components/ContactSection3";
-import WebflowInit from "@/components/WebflowInit";
+import WebflowPageId from "@/components/webflow/WebflowPageId";
+import ContactHero from "@/components/sections/contact/ContactHero";
+import ContactInfo from "@/components/sections/contact/ContactInfo";
+import ContactForm from "@/components/sections/contact/ContactForm";
+import WebflowInit from "@/components/webflow/WebflowInit";
 
 
 export default function ContactPage() {
@@ -32,9 +32,9 @@ export default function ContactPage() {
         suppressHydrationWarning
       />
       <main>
-        <ContactSection1 />
-        <ContactSection2 />
-        <ContactSection3 />
+        <ContactHero />
+        <ContactInfo />
+        <ContactForm />
       </main>
     </>
   );
