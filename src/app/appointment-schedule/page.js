@@ -1,8 +1,8 @@
 import React from "react";
-import WebflowPageId from "@/components/WebflowPageId";
-import AppointmentscheduleSection1 from "@/components/AppointmentscheduleSection1";
-import AppointmentscheduleSection2 from "@/components/AppointmentscheduleSection2";
-import WebflowInit from "@/components/WebflowInit";
+import WebflowPageId from "@/components/webflow/WebflowPageId";
+import AppointmentHero from "@/components/sections/appointment/AppointmentHero";
+import AppointmentCalendar from "@/components/sections/appointment/AppointmentCalendar";
+import WebflowInit from "@/components/webflow/WebflowInit";
 
 
 export default function AppointmentschedulePage() {
@@ -18,8 +18,8 @@ export default function AppointmentschedulePage() {
         suppressHydrationWarning
       />
       <main>
-        <AppointmentscheduleSection1 />
-        <AppointmentscheduleSection2 />
+        <AppointmentHero />
+        <AppointmentCalendar />
       </main>
     </>
   );

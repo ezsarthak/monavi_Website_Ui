@@ -1,10 +1,10 @@
 import Script from "next/script";
 
 import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import BookingModal from "@/components/BookingModal";
-import BookingInterceptor from "@/components/BookingInterceptor";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
+import BookingModal from "@/components/forms/BookingModal";
+import BookingInterceptor from "@/components/forms/BookingInterceptor";
 
 export const metadata = {
   metadataBase: new URL("https://monavi.com"),
