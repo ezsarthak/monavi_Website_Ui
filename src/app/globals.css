@@ -336,3 +336,62 @@ section:not(.rt-hero):not(.rt-about-hero-section):not(.rt-service-hero-section):
 .rt-service-details-content-left {
   margin-top: 0 !important;
 }
+
+/* Fix Service Section 3 fitting */
+.rt-care .rt-service-left-image-wrapper {
+  max-height: 65vh !important;
+  display: flex;
+  align-items: center;
+}
+.rt-care .rt-service-image-box img {
+  height: auto !important;
+  max-height: 65vh !important;
+  object-fit: contain;
+}
+.rt-care .rt-text-style-h2 {
+  font-size: clamp(1.5rem, 2.5vw, 2rem) !important;
+  line-height: 1.2 !important;
+}
+.rt-care .rt-service-points {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.rt-care .rt-service-right-box {
+  gap: 10px !important;
+}
+
+/* Fix lead and end image cards in healthcare section */
+.rt-healthcare-card {
+  height: 100% !important;
+  display: flex !important;
+}
+.rt-healthcare-card img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* Fix image centering and rounded corners */
+.rt-care .rt-service-left-image-wrapper {
+  position: relative !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rt-care .rt-service-image-box.rt-image-absolute {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+.rt-care .rt-service-image-box {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100%;
+}
+.rt-care .rt-service-image-box img {
+  border-radius: 24px !important;
+}

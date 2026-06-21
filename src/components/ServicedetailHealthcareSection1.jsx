@@ -18,6 +18,7 @@ export default function ServicedetailHealthcareSection1() {
               data-w-id="deb4522a-9901-b3c4-589e-e8a2be13e4a9"
               
               className="rt-gap-off rt-h1-gap"
+              style={{ paddingTop: '1rem' }}
             >
               Excellence in clinic management
             </h1>
