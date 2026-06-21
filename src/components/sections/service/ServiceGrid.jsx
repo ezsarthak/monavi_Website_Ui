@@ -38,7 +38,7 @@ export default function ServiceGrid() {
                   <div className="w-layout-hflex rt-button-arrow-1-v2">
                     <Image width={800} height={600} 
                       loading="lazy"
-                      src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
+                      src="/assets/arrow_1_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -46,7 +46,7 @@ export default function ServiceGrid() {
                   <div className="w-layout-hflex rt-button-arrow-2-v2">
                     <Image width={800} height={600} 
                       loading="lazy"
-                      src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
+                      src="/assets/arrow_1_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -67,7 +67,7 @@ export default function ServiceGrid() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698c1f6681cba9dd8dddf8d2_Group_201597885279_20_1_.svg"
+                          src="/assets/icon_workflow_automation.svg"
                           loading="lazy"
                           width={47}
                           height={47}
@@ -117,7 +117,7 @@ export default function ServiceGrid() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698c2d3d8bfb931cd5149dd8_Group_2016.svg"
+                          src="/assets/icon_patient_retention_service.svg"
                           loading="lazy"
                           width={47}
                           height={47}
@@ -167,7 +167,7 @@ export default function ServiceGrid() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698c2d3a46882970b777cfc7_Group_201597885391.svg"
+                          src="/assets/icon_smart_analytics.svg"
                           loading="lazy"
                           width={47}
                           height={47}

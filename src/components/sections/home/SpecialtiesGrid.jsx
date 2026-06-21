@@ -36,7 +36,7 @@ export default function SpecialtiesGrid() {
                 <div className="w-layout-vflex rt-grid-item-bottom-wrapper">
                   <div className="w-layout-hflex rt-signature-wrapper">
                     <Image 
-                      src="/fonts/696f6df8b5586175ba1cd8af_Dr.A.markemo.svg"
+                      src="/fonts/dr.a.markemo.svg"
                       loading="lazy"
                       width={124}
                       height={17}
@@ -49,7 +49,7 @@ export default function SpecialtiesGrid() {
                 </div>
                 <div className="rt-heart-icon-wrapper">
                   <Image width={800} height={600} 
-                    src="/fonts/699d53a8f9eecfd18f9aa453_Group_16_1_.svg"
+                    src="/fonts/icon_automated_receptionist_heart.svg"
                     loading="lazy"
                     alt="Heart Icon"
                   />
@@ -76,7 +76,7 @@ export default function SpecialtiesGrid() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7b4bb5f35f3d5fb74aab_Darmatology_icon.svg"
+                  src="/fonts/darmatology_icon.svg"
                   loading="lazy"
                   width={51}
                   height={51}
@@ -98,7 +98,7 @@ export default function SpecialtiesGrid() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7e1279916125fded0bb6_Cardiology_Icon.svg"
+                  src="/fonts/cardiology_icon.svg"
                   loading="lazy"
                   width={51}
                   height={47}
@@ -120,7 +120,7 @@ export default function SpecialtiesGrid() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7f1113e093a41616f2c6_Orthopedic_care.svg"
+                  src="/fonts/orthopedic_care.svg"
                   loading="lazy"
                   width={51}
                   height={51}
@@ -142,7 +142,7 @@ export default function SpecialtiesGrid() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7f119a2cade9e09e2271_Neurology_care.svg"
+                  src="/fonts/neurology_care.svg"
                   loading="lazy"
                   width={51}
                   height={51}

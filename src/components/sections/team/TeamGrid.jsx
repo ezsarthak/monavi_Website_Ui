@@ -20,7 +20,7 @@ export default function TeamGrid() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
                     className="rt-team-member-iamge"
-                    src={"/team/" + encodeURIComponent("Keshav Garg(CEO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    src={"/team/" + encodeURIComponent("Keshav Garg(CEO)_v2.jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
                     alt="Keshav Garg"
@@ -48,7 +48,7 @@ export default function TeamGrid() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
                     className="rt-team-member-iamge"
-                    src={"/team/" + encodeURIComponent("Sarthak Patil(CTO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    src={"/team/" + encodeURIComponent("Sarthak Patil(CTO)_v2.jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
                     alt="Sarthak Patil"
@@ -76,7 +76,7 @@ export default function TeamGrid() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
                     className="rt-team-member-iamge"
-                    src={"/team/" + encodeURIComponent("Jayashis Barua(CFO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    src={"/team/" + encodeURIComponent("Jayashis Barua(CFO)_v2.jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
                     alt="Jayashis Barua"
@@ -104,7 +104,7 @@ export default function TeamGrid() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
                     className="rt-team-member-iamge"
-                    src={"/team/" + encodeURIComponent("Shreyash Joshi(CMO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    src={"/team/" + encodeURIComponent("Shreyash Joshi(CMO)_v2.jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
                     alt="Shreyash Joshi"
@@ -123,6 +123,7 @@ export default function TeamGrid() {
                 </div>
               </a>
             </div>
+            {/* Hiding last 2 rows temporarily
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
@@ -347,6 +348,7 @@ export default function TeamGrid() {
                 </div>
               </a>
             </div>
+            */}
           </div>
         </div>
       </div>

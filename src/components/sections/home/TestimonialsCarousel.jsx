@@ -46,7 +46,7 @@ export default function TestimonialsCarousel() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -55,7 +55,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -64,7 +64,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -73,7 +73,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -82,7 +82,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -99,7 +99,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/patient_mobile_app_1781317975329.webp"
+                          src="/images/monavi/patient_mobile_app.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -111,7 +111,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -120,7 +120,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -137,7 +137,7 @@ export default function TestimonialsCarousel() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -146,7 +146,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -155,7 +155,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -164,7 +164,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -173,7 +173,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -190,7 +190,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
+                          src="/images/monavi/hero_dashboard_mockup.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -202,7 +202,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -211,7 +211,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -229,7 +229,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                       <div className="w-layout-vflex">
                         <Image 
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                          src="/fonts/star_icon_3_.svg"
                           loading="lazy"
                           width={18}
                           height={17}
@@ -238,7 +238,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                          src="/fonts/star_icon_3_.svg"
                           loading="lazy"
                           width={18}
                           height={17}
@@ -247,7 +247,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                          src="/fonts/star_icon_3_.svg"
                           loading="lazy"
                           width={18}
                           height={17}
@@ -256,7 +256,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                          src="/fonts/star_icon_3_.svg"
                           loading="lazy"
                           width={18}
                           height={17}
@@ -265,7 +265,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div className="w-layout-vflex">
                         <Image 
-                          src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                          src="/fonts/star_icon_3_.svg"
                           loading="lazy"
                           width={18}
                           height={17}
@@ -282,7 +282,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                         <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                           <Image 
-                            src="/images/monavi/receptionist_using_software_1781317951601.webp"
+                            src="/images/monavi/receptionist_using_software.webp"
                             loading="lazy"
                             width={50}
                             height={50}
@@ -294,7 +294,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-comma-wrapper">
                         <div>
                           <Image 
-                            src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                            src="/fonts/comma_iocn.svg"
                             loading="lazy"
                             width={18}
                             height={30}
@@ -303,7 +303,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div>
                           <Image 
-                            src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                            src="/fonts/comma_iocn.svg"
                             loading="lazy"
                             width={18}
                             height={30}
@@ -323,7 +323,7 @@ export default function TestimonialsCarousel() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -332,7 +332,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -341,7 +341,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -350,7 +350,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -359,7 +359,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -376,7 +376,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
+                          src="/images/monavi/doctor_digital_prescription.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -388,7 +388,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -397,7 +397,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -414,7 +414,7 @@ export default function TestimonialsCarousel() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -423,7 +423,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -432,7 +432,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -441,7 +441,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -450,7 +450,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -467,7 +467,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/patient_mobile_app_1781317975329.webp"
+                          src="/images/monavi/patient_mobile_app.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -479,7 +479,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -488,7 +488,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -505,7 +505,7 @@ export default function TestimonialsCarousel() {
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -514,7 +514,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -523,7 +523,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -532,7 +532,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -541,7 +541,7 @@ export default function TestimonialsCarousel() {
                     </div>
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                        src="/fonts/star_icon_3_.svg"
                         loading="lazy"
                         width={18}
                         height={17}
@@ -558,7 +558,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                         <Image 
-                          src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
+                          src="/images/monavi/hero_dashboard_mockup.webp"
                           loading="lazy"
                           width={50}
                           height={50}
@@ -570,7 +570,7 @@ export default function TestimonialsCarousel() {
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -579,7 +579,7 @@ export default function TestimonialsCarousel() {
                       </div>
                       <div>
                         <Image 
-                          src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                          src="/fonts/comma_iocn.svg"
                           loading="lazy"
                           width={18}
                           height={30}
@@ -613,7 +613,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -622,7 +622,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -631,7 +631,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -640,7 +640,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -649,7 +649,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -667,7 +667,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/receptionist_using_software_1781317951601.webp"
+                              src="/images/monavi/receptionist_using_software.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -679,7 +679,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -688,7 +688,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -707,7 +707,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -716,7 +716,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -725,7 +725,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -734,7 +734,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -743,7 +743,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -760,7 +760,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
+                              src="/images/monavi/doctor_digital_prescription.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -772,7 +772,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -781,7 +781,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -801,7 +801,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                           <div className="w-layout-vflex">
                             <Image 
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                              src="/fonts/star_icon_3_.svg"
                               loading="lazy"
                               width={18}
                               height={17}
@@ -810,7 +810,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                              src="/fonts/star_icon_3_.svg"
                               loading="lazy"
                               width={18}
                               height={17}
@@ -819,7 +819,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                              src="/fonts/star_icon_3_.svg"
                               loading="lazy"
                               width={18}
                               height={17}
@@ -828,7 +828,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                              src="/fonts/star_icon_3_.svg"
                               loading="lazy"
                               width={18}
                               height={17}
@@ -837,7 +837,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div className="w-layout-vflex">
                             <Image 
-                              src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                              src="/fonts/star_icon_3_.svg"
                               loading="lazy"
                               width={18}
                               height={17}
@@ -854,7 +854,7 @@ export default function TestimonialsCarousel() {
                           <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                             <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                               <Image 
-                                src="/images/monavi/patient_mobile_app_1781317975329.webp"
+                                src="/images/monavi/patient_mobile_app.webp"
                                 loading="lazy"
                                 width={50}
                                 height={50}
@@ -866,7 +866,7 @@ export default function TestimonialsCarousel() {
                           <div className="w-layout-hflex rt-comma-wrapper">
                             <div>
                               <Image 
-                                src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                                src="/fonts/comma_iocn.svg"
                                 loading="lazy"
                                 width={18}
                                 height={30}
@@ -875,7 +875,7 @@ export default function TestimonialsCarousel() {
                             </div>
                             <div>
                               <Image 
-                                src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                                src="/fonts/comma_iocn.svg"
                                 loading="lazy"
                                 width={18}
                                 height={30}
@@ -895,7 +895,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -904,7 +904,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -913,7 +913,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -922,7 +922,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -931,7 +931,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -948,7 +948,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
+                              src="/images/monavi/hero_dashboard_mockup.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -960,7 +960,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -969,7 +969,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -988,7 +988,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -997,7 +997,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1006,7 +1006,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1015,7 +1015,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1024,7 +1024,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1041,7 +1041,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/receptionist_using_software_1781317951601.webp"
+                              src="/images/monavi/receptionist_using_software.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -1053,7 +1053,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -1062,7 +1062,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -1081,7 +1081,7 @@ export default function TestimonialsCarousel() {
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1090,7 +1090,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1099,7 +1099,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1108,7 +1108,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1117,7 +1117,7 @@ export default function TestimonialsCarousel() {
                         </div>
                         <div className="w-layout-vflex">
                           <Image 
-                            src="/fonts/697c784eac18ec5792616359_Star_Icon_3_.svg"
+                            src="/fonts/star_icon_3_.svg"
                             loading="lazy"
                             width={18}
                             height={17}
@@ -1134,7 +1134,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
                             <Image 
-                              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
+                              src="/images/monavi/doctor_digital_prescription.webp"
                               loading="lazy"
                               width={50}
                               height={50}
@@ -1146,7 +1146,7 @@ export default function TestimonialsCarousel() {
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}
@@ -1155,7 +1155,7 @@ export default function TestimonialsCarousel() {
                           </div>
                           <div>
                             <Image 
-                              src="/fonts/697c7aa94666b3deb731148b_Comma_Iocn.svg"
+                              src="/fonts/comma_iocn.svg"
                               loading="lazy"
                               width={18}
                               height={30}

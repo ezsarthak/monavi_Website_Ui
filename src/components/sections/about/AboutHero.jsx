@@ -47,7 +47,7 @@ export default function AboutHero() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <Image 
-                      src="/assets/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
+                      src="/assets/icon_automated_reminders.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -82,7 +82,7 @@ export default function AboutHero() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <Image 
-                      src="/assets/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
+                      src="/assets/icon_reduce_chaos.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -117,7 +117,7 @@ export default function AboutHero() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <Image 
-                      src="/assets/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
+                      src="/assets/icon_patient_retention.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -152,7 +152,7 @@ export default function AboutHero() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <Image 
-                      src="/assets/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
+                      src="/assets/icon_queue_tracking.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -203,7 +203,7 @@ export default function AboutHero() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
+                          src="/assets/icon_automated_reminders.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -240,7 +240,7 @@ export default function AboutHero() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
+                          src="/assets/icon_reduce_chaos.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -279,7 +279,7 @@ export default function AboutHero() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
+                          src="/assets/icon_patient_retention.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -318,7 +318,7 @@ export default function AboutHero() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <Image 
-                          src="/assets/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
+                          src="/assets/icon_queue_tracking.svg"
                           loading="lazy"
                           width={45}
                           height={45}

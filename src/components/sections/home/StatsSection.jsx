@@ -40,7 +40,7 @@ export default function StatsSection() {
             >
               <div className="rt-counter-icon-gap">
                 <Image 
-                  src="/fonts/6973045a0b0a48f7d7c1d269_Awards.svg"
+                  src="/fonts/awards.svg"
                   loading="lazy"
                   width={61}
                   height={62}
@@ -62,7 +62,7 @@ export default function StatsSection() {
             >
               <div className="rt-counter-icon-gap">
                 <Image 
-                  src="/fonts/6973045976366a0092ddf7f1_Medical_Specialist.svg"
+                  src="/fonts/medical_specialist.svg"
                   loading="lazy"
                   width={60}
                   height={61}
@@ -84,7 +84,7 @@ export default function StatsSection() {
             >
               <div className="rt-counter-icon-gap">
                 <Image 
-                  src="/fonts/697304590d52897b1a291422_Healh_Care.svg"
+                  src="/fonts/healh_care.svg"
                   loading="lazy"
                   width={61}
                   height={61}
@@ -106,7 +106,7 @@ export default function StatsSection() {
             >
               <div className="rt-counter-icon-gap">
                 <Image 
-                  src="/fonts/6973045909e28a21e06686bf_Client_Satisfaction.svg"
+                  src="/fonts/client_satisfaction.svg"
                   loading="lazy"
                   width={58}
                   height={60}

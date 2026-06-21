@@ -84,7 +84,7 @@ export default function AboutPreview() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
+                      src="/fonts/vector_37_.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -121,7 +121,7 @@ export default function AboutPreview() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
+                      src="/fonts/vector_37_.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -158,7 +158,7 @@ export default function AboutPreview() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
+                      src="/fonts/vector_37_.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -195,7 +195,7 @@ export default function AboutPreview() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37_.svg"
+                      src="/fonts/vector_37_.svg"
                       loading="lazy"
                       width={7}
                       height={7}

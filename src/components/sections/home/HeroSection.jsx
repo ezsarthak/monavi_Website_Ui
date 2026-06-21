@@ -38,21 +38,21 @@ export default function HeroSection() {
         <div className="monavi-feature-cards-wrapper" data-w-id="hero-cards">
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/696f50a3d546f3f075cd75c1_Ticker_Icon.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <img src="/fonts/ticker_icon.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
             </div>
             <div className="monavi-feature-title">Queue<br/>Tracking</div>
           </div>
 
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/69a143e0877eeaaad829b74f_Group_1597885272.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <img src="/fonts/icon_digital_prescriptions.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
             </div>
             <div className="monavi-feature-title">Digital<br/>Prescriptions</div>
           </div>
 
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/69a143e0bfa82469f14fae39_Group_1597885431_1_.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <img src="/fonts/icon_followup_reminders.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
             </div>
             <div className="monavi-feature-title">Follow-up<br/>Reminders</div>
           </div>

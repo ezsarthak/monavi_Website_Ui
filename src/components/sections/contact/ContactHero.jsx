@@ -54,7 +54,7 @@ export default function ContactHero() {
           >
             <div className="w-layout-vflex rt-hero-bottom-left rt-border-radius-10 rt-overflow-hidden">
               <div
-                data-poster-url="/assets/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
+                data-poster-url="/assets/6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
                 data-video-urls="/assets/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_webm.webm"
                 data-autoplay="true"
                 data-loop="true"
@@ -84,7 +84,7 @@ export default function ContactHero() {
                   >
                     <span className="rt-play-state">
                       <Image 
-                        src="/assets/696f017270bc35c55e784979_69859766f0b870a5b7b1129c_Pause_20icon.svg"
+                        src="/assets/pause_icon.svg"
                         loading="lazy"
                         width={7}
                         height={10}
@@ -96,7 +96,7 @@ export default function ContactHero() {
                         loading="lazy"
                         width={7}
                         height={10}
-                        src="/assets/696f017270bc35c55e784979_6980224bdac4a2081698b5af_Play_20Button.svg"
+                        src="/assets/play_button.svg"
                         alt="Play video"
                       />
                     </span>
@@ -117,7 +117,7 @@ export default function ContactHero() {
               >
                 <div className="w-layout-vflex">
                   <Image 
-                    src="/assets/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
+                    src="/assets/right_arrow.svg"
                     loading="lazy"
                     width={13}
                     height={13}

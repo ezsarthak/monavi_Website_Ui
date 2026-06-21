@@ -96,7 +96,7 @@ export default function ContactForm() {
                     <div className="w-layout-hflex rt-form-inner-logo">
                       <Image 
                         width={20} height={20} alt="pulseon contact user"
-                        src="/assets/696f017270bc35c55e784979_6982e5724271a2e45c6224f8_b4684e8495831860cfd932d4349f8612_pulseon-contact-user.svg" loading="lazy"
+                        src="/assets/b4684e8495831860cfd932d4349f8612_pulseon-contact-user.svg" loading="lazy"
                       />
                     </div>
                   </div>
@@ -116,7 +116,7 @@ export default function ContactForm() {
                     <div className="w-layout-hflex rt-form-inner-logo">
                       <Image 
                         width={20} height={20} alt="pulseon phone icon"
-                        src="/assets/696f017270bc35c55e784979_6982e5724271a2e45c6224f9_9f5d55a067f2e0ec4f5c2887fde698bc_pulseon-phone-icon.svg" loading="lazy"
+                        src="/assets/9f5d55a067f2e0ec4f5c2887fde698bc_pulseon-phone-icon.svg" loading="lazy"
                       />
                     </div>
                   </div>
@@ -135,7 +135,7 @@ export default function ContactForm() {
                     <div className="w-layout-hflex rt-form-inner-logo">
                       <Image 
                         width={20} height={20} alt="pulseon message icon"
-                        src="/assets/696f017270bc35c55e784979_6982e5724271a2e45c6224fa_f20a4d72990c44cccf512adf0883d7ec_pulseon-message-icon.svg" loading="lazy"
+                        src="/assets/f20a4d72990c44cccf512adf0883d7ec_pulseon-message-icon.svg" loading="lazy"
                       />
                     </div>
                   </div>

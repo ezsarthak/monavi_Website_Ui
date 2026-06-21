@@ -43,7 +43,7 @@ export default function WhoWeAre() {
           </div>
           <div className="rt-videoback" />
           <div className="rt-video rt-overflow-hidden rt-border-radius-10">
-            <Image width={800} height={600}  src="/images/monavi/patient_mobile_app_1781317975329.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
+            <Image width={800} height={600}  src="/images/monavi/patient_mobile_app.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
           </div>
         </div>
       </section>

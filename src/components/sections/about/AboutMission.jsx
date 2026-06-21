@@ -48,7 +48,7 @@ export default function AboutMission() {
               </div>
               <div className="w-layout-hflex rt-about-service-image-wrapper rt-overflow-hidden rt-1">
                 <Image 
-                  src="/assets/696f017270bc35c55e784979_698f1388120c9dc015a1b2aa_Service_20About.avif"
+                  src="/assets/service_about.avif"
                   loading="lazy"
                   width={1210}
                   height={533}
@@ -83,7 +83,7 @@ export default function AboutMission() {
               </div>
               <div className="w-layout-hflex rt-about-service-image-wrapper rt-overflow-hidden rt-2">
                 <Image 
-                  src="/assets/696f017270bc35c55e784979_698f1940eb7c124d7e2a5559_Frame_201597886274.avif"
+                  src="/assets/frame_1597886274.avif"
                   loading="lazy"
                   width={1210}
                   height={533}
@@ -118,7 +118,7 @@ export default function AboutMission() {
               </div>
               <div className="w-layout-hflex rt-about-service-image-wrapper rt-overflow-hidden rt-3">
                 <Image 
-                  src="/assets/696f017270bc35c55e784979_698f19dee45d85d20a15a417_Frame_201597886274_20_1_.avif"
+                  src="/assets/frame_1597886274_1_.avif"
                   loading="lazy"
                   width={1210}
                   height={533}

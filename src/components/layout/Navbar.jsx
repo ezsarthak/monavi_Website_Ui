@@ -105,7 +105,7 @@ export default function Navbar() {
                     width={29}
                     height={28}
                     alt="Call Icon"
-                    src="/fonts/697854b5d9bb3d8fd437b799_Call_Icon.svg"
+                    src="/fonts/call_icon.svg"
                     loading="lazy"
                     data-w-id="4895d25e-2177-434f-4904-e848d905b354"
                   />
@@ -144,7 +144,7 @@ export default function Navbar() {
                           width={11}
                           height={16}
                           alt=""
-                          src="/fonts/6985adfaaef9ef7e15b10623_6936a9fdfd2db0b87d8552bd_FB_logo.svg"
+                          src="/fonts/fb_logo.svg"
                           loading="lazy"
                         />
                       </div>
@@ -159,7 +159,7 @@ export default function Navbar() {
                           width={11}
                           height={16}
                           alt="instragram"
-                          src="/fonts/6997e45a1e50b87ff34a4819_instragram.svg"
+                          src="/fonts/instragram.svg"
                           loading="lazy"
                         />
                       </div>
@@ -174,7 +174,7 @@ export default function Navbar() {
                           width={11}
                           height={16}
                           alt="X"
-                          src="/fonts/6997e45a1e50b87ff34a4818_X.svg"
+                          src="/fonts/x.svg"
                           loading="lazy"
                         />
                       </div>

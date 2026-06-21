@@ -66,7 +66,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -80,7 +80,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -94,7 +94,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -126,7 +126,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -134,7 +134,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -170,7 +170,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -184,7 +184,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -198,7 +198,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -230,7 +230,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -238,7 +238,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -274,7 +274,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -288,7 +288,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -302,7 +302,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -333,7 +333,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -341,7 +341,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -390,7 +390,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -404,7 +404,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -418,7 +418,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -450,7 +450,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -458,7 +458,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -494,7 +494,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -508,7 +508,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -522,7 +522,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -554,7 +554,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -562,7 +562,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -598,7 +598,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -612,7 +612,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -626,7 +626,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -657,7 +657,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -665,7 +665,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -714,7 +714,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -728,7 +728,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -742,7 +742,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -774,7 +774,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -782,7 +782,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -818,7 +818,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -832,7 +832,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -846,7 +846,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -878,7 +878,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -886,7 +886,7 @@ export default function ServicesShowcase() {
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
                           <Image width={800} height={600} 
                             loading="lazy"
-                            src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                            src="/fonts/arrow_1_1__1.svg"
                             alt="arrow"
                             className="rt-button-arrow"
                           />
@@ -922,7 +922,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -936,7 +936,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -950,7 +950,7 @@ export default function ServicesShowcase() {
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
                       <Image 
-                        src="/fonts/697b4ea1c7eaa08310f3f732_Plus_Icon.svg"
+                        src="/fonts/plus_icon.svg"
                         loading="lazy"
                         width={8}
                         height={8}
@@ -981,7 +981,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />
@@ -989,7 +989,7 @@ export default function ServicesShowcase() {
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
                         <Image width={800} height={600} 
                           loading="lazy"
-                          src="/fonts/6982cc9585d9d14180e08057_Arrow_1_1_.svg"
+                          src="/fonts/arrow_1_1__1.svg"
                           alt="arrow"
                           className="rt-button-arrow"
                         />

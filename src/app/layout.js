@@ -43,18 +43,19 @@ export default function RootLayout({ children }) {
           rel="preconnect"
           crossOrigin="anonymous"
         />
-        <script
+        <Script
+          id="webfont-init"
           dangerouslySetInnerHTML={{
             __html: `WebFont.load({ google: { families: ["Plus Jakarta Sans:regular,500,600,700,800"] } });`,
           }}
         />
         <link
-          href="/assets/696f017270bc35c55e784979_696f0224b123fc82dcd2d44f_favicon.png"
+          href="/assets/favicon.png"
           rel="shortcut icon"
           type="image/x-icon"
         />
         <link
-          href="/assets/696f017270bc35c55e784979_696f02271ce4cf5bc65158a1_webclip.png"
+          href="/assets/webclip.png"
           rel="apple-touch-icon"
         />
         <link rel="preload" as="image" href="/monavi/new_bg.webp" />

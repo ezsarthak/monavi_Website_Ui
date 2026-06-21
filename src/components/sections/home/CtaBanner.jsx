@@ -11,7 +11,7 @@ export default function CtaBanner() {
         <div className="w-layout-hflex rt-cta-main-wrapper rt-position-relative">
           <div className="rt-cta-image-wrapper rt-one">
             <Image 
-              src="/images/monavi/receptionist_using_software_1781317951601.webp"
+              src="/images/monavi/receptionist_using_software.webp"
               loading="lazy"
               width={175}
               height={174}
@@ -20,7 +20,7 @@ export default function CtaBanner() {
           </div>
           <div className="rt-cta-image-wrapper rt-two">
             <Image 
-              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
+              src="/images/monavi/doctor_digital_prescription.webp"
               loading="lazy"
               width={129}
               height={128}
@@ -31,7 +31,7 @@ export default function CtaBanner() {
             <div className="rt-position-relative">
               <div className="rt-image-inner-wrap">
                 <Image 
-                  src="/images/monavi/patient_mobile_app_1781317975329.webp"
+                  src="/images/monavi/patient_mobile_app.webp"
                   loading="lazy"
                   width={114}
                   height={113}
@@ -40,7 +40,7 @@ export default function CtaBanner() {
               </div>
               <div className="rt-psotion-absolute rt-one">
                 <Image 
-                  src="/fonts/696f50a3d546f3f075cd75c1_Ticker_Icon.svg"
+                  src="/fonts/ticker_icon.svg"
                   loading="lazy"
                   width={52}
                   height={51}
@@ -49,7 +49,7 @@ export default function CtaBanner() {
               </div>
               <div className="rt-psotion-absolute rt-two">
                 <Image 
-                  src="/fonts/696f50a4df123bd8c8d0e4fe_Comma.svg"
+                  src="/fonts/comma.svg"
                   loading="lazy"
                   width={25}
                   height={25}
@@ -62,7 +62,7 @@ export default function CtaBanner() {
             <div className="rt-position-relative">
               <div className="rt-image-inner-wrap">
                 <Image 
-                  src="/images/monavi/hero_dashboard_mockup_1781317936748.webp"
+                  src="/images/monavi/hero_dashboard_mockup.webp"
                   loading="lazy"
                   width={133}
                   height={132}
@@ -71,7 +71,7 @@ export default function CtaBanner() {
               </div>
               <div className="rt-psotion-absolute rt-three">
                 <Image 
-                  src="/fonts/696f51c5022829ac984d9a8c_Ticker_Two.svg"
+                  src="/fonts/ticker_two.svg"
                   loading="lazy"
                   width={52}
                   height={51}
@@ -84,7 +84,7 @@ export default function CtaBanner() {
             <div className="rt-position-relative">
               <div className="rt-image-inner-wrap">
                 <Image 
-                  src="/images/monavi/receptionist_using_software_1781317951601.webp"
+                  src="/images/monavi/receptionist_using_software.webp"
                   loading="lazy"
                   width={175}
                   height={174}
@@ -93,7 +93,7 @@ export default function CtaBanner() {
               </div>
               <div className="rt-psotion-absolute rt-four">
                 <Image 
-                  src="/fonts/696f51c6d80d7b14c627f02b_Star_Icon.svg"
+                  src="/fonts/star_icon.svg"
                   loading="lazy"
                   width={25}
                   height={25}
@@ -104,7 +104,7 @@ export default function CtaBanner() {
           </div>
           <div className="rt-cta-image-wrapper rt-six">
             <Image 
-              src="/images/monavi/doctor_digital_prescription_1781317963970.webp"
+              src="/images/monavi/doctor_digital_prescription.webp"
               loading="lazy"
               width={129}
               height={128}
