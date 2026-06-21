@@ -56,25 +56,7 @@ export default function SpecialistsSection1() {
           </div>
         </div>
       </div>
-      <div
-        data-w-id="7dafd06f-ced5-ecd9-deb7-b858d7118139"
-        
-        className="rt-position-relative rt-overflow-hidden"
-      >
-        <div
-          data-w-id="b185508f-3369-af92-168c-43a19e433784"
-          className="rt-teams-image-wrapper"
-        >
-          <Image 
-            src="/images/monavi/receptionist_using_software_1781317951601.webp"
-            loading="lazy"
-            width={1920}
-            height={740}
-            alt="Receptionist using software"
-            className="rt-team-hero-iamge"
-          />
-        </div>
-      </div>
+
     </section>
   );
 }

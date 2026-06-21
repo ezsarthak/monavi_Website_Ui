@@ -10,20 +10,20 @@ export default function SpecialistsSection3() {
         </div>
         <div className="w-dyn-list">
           <div role="list" className="rt-team-member-details-main w-dyn-items">
+
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/sarthak"
+                href="/team/keshav"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
                     className="rt-team-member-iamge"
-                    src="/assets/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
+                    src={"/team/" + encodeURIComponent("Keshav Garg(CEO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Sarthak"
+                    alt="Keshav Garg"
                     sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
                     loading="lazy"
@@ -31,10 +31,10 @@ export default function SpecialistsSection3() {
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Sarthak
+                    Keshav Garg
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Founder & CEO
+                    Co-founder & CEO
                   </div>
                 </div>
               </a>
@@ -42,53 +42,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/jane-smith"
+                href="/team/sarthak"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Sarthak Patil(CTO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Jane Smith"
+                    alt="Sarthak Patil"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Jane Smith
-                  </div>
-                  <div className="rt-text-color-soft-ash">Lead Engineer</div>
-                </div>
-              </a>
-            </div>
-            <div role="listitem" className="w-dyn-item">
-              <a
-                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/alex-johnson"
-                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
-              >
-                <div className="rt-overflow-hidden rt-border-radius-10">
-                  <Image 
-                    src="/assets/696f3fadf343717fcadd620a_6989958fe9230ece007d59ee_kdfbhjs.avif"
-                    loading="lazy"
-                    width={427}
-                    height={522}
-                    alt="Alex Johnson"
-                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
-                  />
-                </div>
-                <div className="w-layout-vflex rt-team-member-data rt-text-center">
-                  <div className="rt-text-style-h6 rt-text-color-white">
-                    Alex Johnson
+                    Sarthak Patil
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Product Manager
+                    Co-founder & CTO
                   </div>
                 </div>
               </a>
@@ -96,27 +70,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/michael-lee"
+                href="/team/jayashis"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Jayashis Barua(CFO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Michael Lee"
+                    alt="Jayashis Barua"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Michael Lee
+                    Jayashis Barua
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Customer Success
+                    CFO
                   </div>
                 </div>
               </a>
@@ -124,27 +98,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/emily-chen"
+                href="/team/shreyash"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_6989966c266678e939b8a7df_Medical_20Professional_20Portrait_20_2_201.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Shreyash Joshi(CMO).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Emily Chen"
+                    alt="Shreyash Joshi"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Emily Chen
+                    Shreyash Joshi
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Marketing Director
+                    CMO
                   </div>
                 </div>
               </a>
@@ -152,79 +126,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/david-brown"
+                href="/team/dhruv"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif_20_1_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Dhruv Savaliya(Tech Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="David Brown"
+                    alt="Dhruv Savaliya"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    David Brown
-                  </div>
-                  <div className="rt-text-color-soft-ash">UI/UX Designer</div>
-                </div>
-              </a>
-            </div>
-            <div role="listitem" className="w-dyn-item">
-              <a
-                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/anna-taylor"
-                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
-              >
-                <div className="rt-overflow-hidden rt-border-radius-10">
-                  <Image 
-                    src="/assets/696f3fadf343717fcadd620a_69899786ac95f67f6e1065f5_Medical_20Professional_20Portrait_201_20_1_.avif"
-                    loading="lazy"
-                    width={427}
-                    height={522}
-                    alt="Anna Taylor"
-                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
-                  />
-                </div>
-                <div className="w-layout-vflex rt-team-member-data rt-text-center">
-                  <div className="rt-text-style-h6 rt-text-color-white">
-                    Anna Taylor
-                  </div>
-                  <div className="rt-text-color-soft-ash">Data Scientist</div>
-                </div>
-              </a>
-            </div>
-            <div role="listitem" className="w-dyn-item">
-              <a
-                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/chris-evans"
-                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
-              >
-                <div className="rt-overflow-hidden rt-border-radius-10">
-                  <Image 
-                    src="/assets/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
-                    loading="lazy"
-                    width={427}
-                    height={522}
-                    alt="Chris Evans"
-                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
-                  />
-                </div>
-                <div className="w-layout-vflex rt-team-member-data rt-text-center">
-                  <div className="rt-text-style-h6 rt-text-color-white">
-                    Chris Evans
+                    Dhruv Savaliya
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Operations Manager
+                    Tech Lead
                   </div>
                 </div>
               </a>
@@ -232,27 +154,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/daniel-garcia"
+                href="/team/atul"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Atul Kumar(Tech Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Daniel Garcia"
+                    alt="Atul Kumar"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Daniel Garcia
+                    Atul Kumar
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Backend Engineer
+                    Tech Lead
                   </div>
                 </div>
               </a>
@@ -260,27 +182,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/jessica-patel"
+                href="/team/nishanth"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Nishanth(Tech Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Jessica Patel"
+                    alt="Nishanth"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Jessica Patel
+                    Nishanth
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Frontend Developer
+                    Tech Lead
                   </div>
                 </div>
               </a>
@@ -288,27 +210,27 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/matthew-kim"
+                href="/team/kautuk"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Kautuk Vala(Outreach Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Matthew Kim"
+                    alt="Kautuk Vala"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Matthew Kim
+                    Kautuk Vala
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Quality Assurance
+                    Outreach Lead
                   </div>
                 </div>
               </a>
@@ -316,27 +238,111 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                
-                href="/team/laura-martinez"
+                href="/team/daksh"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <Image 
-                    src="/assets/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
-                    loading="lazy"
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Daksh Jain(Outreach Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
                     width={427}
                     height={522}
-                    alt="Laura Martinez"
+                    alt="Daksh Jain"
+                    sizes="(max-width: 479px) 100vw, 427px"
                     data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
-                    className="rt-team-member-iamge"
+                    loading="lazy"
                   />
                 </div>
                 <div className="w-layout-vflex rt-team-member-data rt-text-center">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Laura Martinez
+                    Daksh Jain
                   </div>
                   <div className="rt-text-color-soft-ash">
-                    Growth Hacker
+                    Outreach Lead
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div role="listitem" className="w-dyn-item">
+              <a
+                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
+                href="/team/prakhar"
+                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
+              >
+                <div className="rt-overflow-hidden rt-border-radius-10">
+                  <Image 
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Prakhar Manek(Outreach Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    width={427}
+                    height={522}
+                    alt="Prakhar Manek"
+                    sizes="(max-width: 479px) 100vw, 427px"
+                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
+                    loading="lazy"
+                  />
+                </div>
+                <div className="w-layout-vflex rt-team-member-data rt-text-center">
+                  <div className="rt-text-style-h6 rt-text-color-white">
+                    Prakhar Manek
+                  </div>
+                  <div className="rt-text-color-soft-ash">
+                    Outreach Lead
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div role="listitem" className="w-dyn-item">
+              <a
+                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
+                href="/team/dev"
+                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
+              >
+                <div className="rt-overflow-hidden rt-border-radius-10">
+                  <Image 
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Dev Aryan Khare (Non-Tech Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    width={427}
+                    height={522}
+                    alt="Dev Aryan Khare"
+                    sizes="(max-width: 479px) 100vw, 427px"
+                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
+                    loading="lazy"
+                  />
+                </div>
+                <div className="w-layout-vflex rt-team-member-data rt-text-center">
+                  <div className="rt-text-style-h6 rt-text-color-white">
+                    Dev Aryan Khare
+                  </div>
+                  <div className="rt-text-color-soft-ash">
+                    Non-Tech Lead
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div role="listitem" className="w-dyn-item">
+              <a
+                data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
+                href="/team/menil"
+                className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
+              >
+                <div className="rt-overflow-hidden rt-border-radius-10">
+                  <Image 
+                    className="rt-team-member-iamge"
+                    src={"/team/" + encodeURIComponent("Menil Patel(Non-Tech Lead).jpeg").replace(/%28/g, '(').replace(/%29/g, ')').replace(/%20/g, ' ')}
+                    width={427}
+                    height={522}
+                    alt="Menil Patel"
+                    sizes="(max-width: 479px) 100vw, 427px"
+                    data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b8"
+                    loading="lazy"
+                  />
+                </div>
+                <div className="w-layout-vflex rt-team-member-data rt-text-center">
+                  <div className="rt-text-style-h6 rt-text-color-white">
+                    Menil Patel
+                  </div>
+                  <div className="rt-text-color-soft-ash">
+                    Non-Tech Lead
                   </div>
                 </div>
               </a>

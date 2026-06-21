@@ -45,7 +45,9 @@ export default function ContactSection2() {
                 <div className="w-layout-vflex rt-contact-info-text-wrapper">
                   <div className="rt-text-color-ocean-blue">Find us on</div>
                   <p className="rt-secondary-text-color rt-gap-off">
-                    Australia -121 King Melbourne VIC, 30 new road
+                    MonaviOne Technologies Pvt Ltd<br/>
+                    Anant Apartment Kamala Nagar<br/>
+                    Bhopal, Madhya Pradesh 462003, India
                   </p>
                 </div>
               </div>
@@ -69,10 +71,16 @@ export default function ContactSection2() {
                     Let’s contact with us
                   </div>
                   <a
-                    href="tel:8881234560"
+                    href="tel:+919269458322"
                     className="rt-secondary-text-color rt-link-decor-off rt-hover-effect w-inline-block"
                   >
-                    <div>(888) 123 4560 </div>
+                    <div>+91 9269 458 322</div>
+                  </a>
+                  <a
+                    href="tel:+919270548371"
+                    className="rt-secondary-text-color rt-link-decor-off rt-hover-effect w-inline-block"
+                  >
+                    <div>+91 9270 548 371</div>
                   </a>
                 </div>
               </div>
@@ -94,10 +102,10 @@ export default function ContactSection2() {
                 <div className="w-layout-vflex rt-contact-info-text-wrapper">
                   <div className="rt-text-color-ocean-blue">Email address</div>
                   <a
-                    href="mailto:info@example.com"
+                    href="mailto:founder@monavi.in"
                     className="rt-secondary-text-color rt-link-decor-off rt-hover-effect"
                   >
-                    info@example.com
+                    founder@monavi.in
                   </a>
                 </div>
               </div>

@@ -395,3 +395,109 @@ section:not(.rt-hero):not(.rt-about-hero-section):not(.rt-service-hero-section):
 .rt-care .rt-service-image-box img {
   border-radius: 24px !important;
 }
+
+
+
+/* Safe height enforcement for team cards */
+.w-dyn-item .rt-overflow-hidden.rt-border-radius-10 {
+  aspect-ratio: 427 / 522;
+  width: 100%;
+}
+.w-dyn-item .rt-overflow-hidden.rt-border-radius-10 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+/* Eliminate massive spacing between sections on the Team page */
+.rt-team-hero-section {
+  padding-top: 20px !important;
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
+}
+.rt-team-hero-section .w-container,
+.rt-team-hero-section .rt-container-small {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.rt-teams-details {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+.rt-teams-details .w-container,
+.rt-teams-details .rt-container-medium-v2 {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.rt-team-member-details {
+  padding-top: 0px !important;
+  padding-bottom: 40px !important;
+  margin-top: 0px !important;
+}
+.rt-team-member-details .w-container,
+.rt-team-member-details .rt-team-details-container {
+  padding-top: 20px !important;
+  margin-top: 0px !important;
+}
+
+/* Increase text sizes and fix section gaps */
+.rt-team-hero-section h2 {
+  font-size: 4rem !important;
+  line-height: 1.1 !important;
+}
+.rt-team-hero-section p {
+  font-size: 1.25rem !important;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rt-teams-details-top-right h2 {
+  font-size: 3.5rem !important;
+  line-height: 1.1 !important;
+  margin-bottom: 20px !important;
+}
+.rt-teams-details-top-right p {
+  font-size: 1.25rem !important;
+  margin-bottom: 30px !important;
+}
+.rt-teams-details-top-content {
+  align-items: center !important; /* Vertically center image and text */
+}
+.rt-teams-details-top-left img {
+  max-height: 500px !important;
+  width: auto !important;
+  object-fit: contain !important;
+}
+.rt-team-member-details {
+  margin-top: -60px !important; /* Pull Our Core Team up to kill the empty space */
+}
+
+/* Make Our Core Team bigger and tighter */
+.rt-team-member-details h2 {
+  font-size: 3.5rem !important;
+  line-height: 1.1 !important;
+}
+.rt-team-member-details .rt-text-center {
+  margin-bottom: 20px !important;
+}
+.rt-team-member-details {
+  margin-top: -100px !important;
+}
+
+/* Pull the 2nd section closer to the 1st */
+.rt-teams-details {
+  margin-top: -80px !important;
+}
+
+/* Pull Our Core Team up even more */
+.rt-team-member-details {
+  margin-top: -180px !important;
+}
