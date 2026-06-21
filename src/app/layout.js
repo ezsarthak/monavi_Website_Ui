@@ -3,6 +3,8 @@ import Script from "next/script";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import BookingModal from "@/components/BookingModal";
+import BookingInterceptor from "@/components/BookingInterceptor";
 
 export const metadata = {
   metadataBase: new URL("https://monavi.com"),
@@ -41,6 +43,20 @@ export default function RootLayout({ children }) {
           rel="preconnect"
           crossOrigin="anonymous"
         />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `WebFont.load({ google: { families: ["Plus Jakarta Sans:regular,500,600,700,800"] } });`,
+          }}
+        />
+        <link
+          href="/assets/696f017270bc35c55e784979_696f0224b123fc82dcd2d44f_favicon.png"
+          rel="shortcut icon"
+          type="image/x-icon"
+        />
+        <link
+          href="/assets/696f017270bc35c55e784979_696f02271ce4cf5bc65158a1_webclip.png"
+          rel="apple-touch-icon"
+        />
         <link rel="preload" as="image" href="/monavi/new_bg.webp" />
         <link rel="preload" as="image" href="/monavi/monavi_logo.webp" />
       </head>
@@ -48,6 +64,8 @@ export default function RootLayout({ children }) {
         <Navbar />
         {children}
         <Footer />
+        <BookingInterceptor />
+        <BookingModal />
         <Script src="/js/webfont.js" strategy="afterInteractive" />
         <Script src="/js/jquery-3.5.1.min.dc5e7f18c8.js" strategy="afterInteractive" />
         <Script src="/js/webflow.schunk.36b8fb49256177c8.js" strategy="afterInteractive" />
