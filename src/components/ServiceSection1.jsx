@@ -77,62 +77,7 @@ export default function ServiceSection1() {
               </a>
             </div>
           </div>
-          <div
-            data-w-id="bc1d85bc-784c-3893-d7f7-5c8821c5ce4b"
-            
-            className="w-layout-hflex rt-hero-service-bottom"
-          >
-            <div className="w-layout-vflex rt-statisfied-patient-image-wrapper">
-              <Image 
-                src="/assets/696f017270bc35c55e784979_69783fe9e1caad94b13a2f35_Satisfied_20patient.webp"
-                loading="lazy"
-                width={115}
-                height={35}
-                alt="Satisfied patient Photos"
-              />
-            </div>
-            <div className="w-layout-vflex rt-hero-right-top-right">
-              <div className="w-layout-hflex rt-hero-star-wrapper">
-                <div>
-                  <Image 
-                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
-                    loading="lazy"
-                    width={18}
-                    height={17}
-                    alt="Star"
-                  />
-                </div>
-                <div>
-                  <Image 
-                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
-                    loading="lazy"
-                    width={18}
-                    height={17}
-                    alt="Star"
-                  />
-                </div>
-                <div>
-                  <Image 
-                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
-                    loading="lazy"
-                    width={18}
-                    height={17}
-                    alt="Star"
-                  />
-                </div>
-                <div>
-                  <Image 
-                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
-                    loading="lazy"
-                    width={18}
-                    height={17}
-                    alt="Star"
-                  />
-                </div>
-              </div>
-              <div>100k+ Patients Managed</div>
-            </div>
-          </div>
+
         </div>
       </div>
     </section>

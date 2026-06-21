@@ -7,17 +7,10 @@ export default function AboutSection1() {
       <div className="w-layout-blockcontainer rt-container-extra-large w-container">
         <div className="w-layout-vflex rt-about-hero-main">
           <div className="w-layout-vflex rt-about-top-content rt-text-center rt-hero-top-content-gap">
-            <h1
-              data-w-id="1650fd17-8333-35f4-2861-74ae8782e5a6"
-              
-              className="rt-gap-off rt-h1-heading-bottom-gap-v2"
-            >
+            <h1 className="rt-gap-off rt-h1-heading-bottom-gap-v2">
               Smart Clinic Flow & Patient Return System
             </h1>
-            <div
-              data-w-id="0d3777bf-56f2-5618-a348-e69d0e9c9fd7"
-              
-            >
+            <div>
               <a
                 data-wf--rt-button--variant="base"
                 data-w-id="36ee05a8-1a3a-f1af-b31b-d4bb524a6fd3"

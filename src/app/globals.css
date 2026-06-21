@@ -29,7 +29,7 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center;
+  object-position: center 25%;
   z-index: 0;
   pointer-events: none;
 }
@@ -53,11 +53,12 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
 }
 
 .monavi-hero-title {
-  font-size: 3.2rem;
-  font-weight: 800;
+  font-size: 2.8rem;
+  font-weight: 700;
   line-height: 1.15;
   color: #013a65; /* Ocean Blue from MONAVI theme */
   margin-bottom: 16px;
+  padding-top: 1.5rem;
   letter-spacing: -0.02em;
 }
 
@@ -323,3 +324,15 @@ section:not(.rt-hero):not(.rt-about-hero-section):not(.rt-service-hero-section):
 @media (min-width:992px) {[data-w-id="54656bea-a361-86f4-2658-81e77b397f84"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}[data-w-id="263f6410-a097-ec7d-5a46-8b8885825580"] {width:50%;height:250px;}[data-w-id="ed7e77e4-58de-488c-08c4-e94ec57de078"] {width:0%;}[data-w-id="01004086-b119-9b25-3e7f-e5f909feabf5"] {width:50%;height:250px;}[data-w-id="a90c5938-00c5-06d5-f8bb-6ce14bd36b11"] {width:0%;}[data-w-id="a6e6413b-69e7-2a54-7c0b-e9a36f830dd5"] {width:50%;height:250px;}[data-w-id="9c2a3d92-e378-bb0c-f9b4-d245533fd764"] {width:0%;}[data-w-id="8c09893c-2dad-a5de-4221-db5a16d95d18"] {opacity:0;}[data-w-id="8c09893c-2dad-a5de-4221-db5a16d95d1a"] {opacity:0;}}
 /* CSS for /service-detail/healthcare */
 @media (min-width:992px) {[data-w-id="725b11cc-a5b2-a69f-5009-3af4a690d4a7"] {width:0%;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3dd"] {color:rgba(1,58,101,0.69);}[data-w-id="78caf03b-317d-4e1e-0259-788d5c8aafce"] {width:100%;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3d6"] {color:rgb(0,17,30);}[data-w-id="24f31ff5-6bf9-b75b-3cbb-220c6e9522bf"] {width:0%;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3e4"] {color:rgba(1,58,101,0.69);}[data-w-id="707ba014-6647-33e0-b306-cb61fe0fa977"] {width:0%;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3eb"] {color:rgba(1,58,101,0.69);}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3c9"] {opacity:1;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cb"] {opacity:0;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cd"] {opacity:0;}[data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cf"] {opacity:0;}}
+/* Fix alignment for About section images */
+.rt-grow-image-wrapper-v2 {
+  margin-top: 0 !important;
+}
+
+/* Fix alignment for service details */
+.rt-service-details-content-one {
+  align-items: flex-start !important;
+}
+.rt-service-details-content-left {
+  margin-top: 0 !important;
+}

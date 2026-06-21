@@ -61,7 +61,6 @@ export default function ServiceSection2() {
                 <div role="listitem" className="w-dyn-item">
                   <a
                     data-w-id="0539b868-e181-7d0d-5403-e22a59a78056"
-                    
                     href="/service-detail/more-clinical"
                     className="rt-service-details-content-one rt-position-relative w-inline-block"
                   >

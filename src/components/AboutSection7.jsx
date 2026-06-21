@@ -18,7 +18,6 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="abe4f553-338c-3894-ded5-086cdd7a49a7"
-              
               className="rt-matrcis-card-one rt-one"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">
@@ -27,7 +26,7 @@ export default function AboutSection7() {
                     data-w-id="8b26f3a3-feb0-8629-6aaa-bd1a849793c6"
                     className="w-layout-hflex rt-counter-wrapper-v5 rt-overflow-hidden"
                   >
-                    <div className="rt-text-style-h2">350+</div>
+                    <div className="rt-text-style-h2">Faster</div>
                   </div>
                   <div className="w-layout-vflex rt-card-counter-text-wrapper">
                     <div className="rt-text-style-h4">
@@ -42,7 +41,6 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="d9d3985b-148c-57dd-8680-5b12ac0356e5"
-              
               className="rt-matrcis-card-one rt-two"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">
@@ -51,7 +49,7 @@ export default function AboutSection7() {
                     data-w-id="d9d3985b-148c-57dd-8680-5b12ac0356e8"
                     className="w-layout-hflex rt-counter-wrapper-v5 rt-overflow-hidden"
                   >
-                    <div className="rt-text-style-h2">230+</div>
+                    <div className="rt-text-style-h2">Smarter</div>
                   </div>
                   <div className="w-layout-vflex rt-card-counter-text-wrapper">
                     <div className="rt-text-style-h4">
@@ -66,7 +64,6 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="b56bfec4-2a4c-3df2-5f76-b63d7aeb9d5d"
-              
               className="rt-matrcis-card-one rt-three"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">
@@ -75,7 +72,7 @@ export default function AboutSection7() {
                     data-w-id="dce2fd89-53f1-bcf6-a741-3ea411b67d35"
                     className="w-layout-hflex rt-counter-wrapper-v5 rt-overflow-hidden"
                   >
-                    <div className="rt-text-style-h2">582+</div>
+                    <div className="rt-text-style-h2">Easier</div>
                   </div>
                   <div className="w-layout-vflex rt-card-counter-text-wrapper">
                     <div className="rt-text-style-h4">

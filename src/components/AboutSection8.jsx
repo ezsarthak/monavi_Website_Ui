@@ -266,7 +266,7 @@ export default function AboutSection8() {
                 </div>
                 <div className="w-layout-hflex rt-faq-answer rt-overflow-hidden rt-faq-answer-v2">
                   <p className="rt-gap-off rt-answer-paragraph">
-                    Patients receive a lightweight link via SMS for live tracking and updates—no mandatory app downloads required.
+                    Patients receive updates via WhatsApp for live tracking, and digital prescriptions—no mandatory app downloads required.
                   </p>
                 </div>
               </div>
