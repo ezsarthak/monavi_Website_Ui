@@ -43,8 +43,10 @@ export default function RootLayout({ children }) {
           rel="preconnect"
           crossOrigin="anonymous"
         />
+        <Script src="/js/webfont.js" strategy="beforeInteractive" />
         <Script
           id="webfont-init"
+          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: `WebFont.load({ google: { families: ["Plus Jakarta Sans:regular,500,600,700,800"] } });`,
           }}
@@ -67,7 +69,6 @@ export default function RootLayout({ children }) {
         <Footer />
         <BookingInterceptor />
         <BookingModal />
-        <Script src="/js/webfont.js" strategy="afterInteractive" />
         <Script src="/js/jquery-3.5.1.min.dc5e7f18c8.js" strategy="afterInteractive" />
         <Script src="/js/webflow.schunk.36b8fb49256177c8.js" strategy="afterInteractive" />
         <Script src="/js/webflow.schunk.8208d3e53b97e3c7.js" strategy="afterInteractive" />
