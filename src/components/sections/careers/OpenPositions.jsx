@@ -89,6 +89,48 @@ export default function OpenPositions() {
         "A creative mindset with a highly organized approach."
       ]
     },
+    { 
+      id: 5, 
+      title: "Video Editor", 
+      department: "Marketing", 
+      type: "Full-time", 
+      location: "Remote", 
+      exp: "1-3 Years",
+      about: "We are looking for a creative and detail-oriented Video Editor to join our Marketing team. You will be responsible for editing high-quality video content that explains our product, tells our customers' stories, and engages audiences across social media platforms.",
+      responsibilities: [
+        "Edit short-form and long-form video content for social media, YouTube, and our website.",
+        "Add motion graphics, subtitles, and effects to enhance storytelling.",
+        "Collaborate with the marketing team to brainstorm and execute video campaigns.",
+        "Manage and organize video assets and project files."
+      ],
+      requirements: [
+        "1-3 years of experience in video editing, preferably in a fast-paced environment.",
+        "Proficiency in Adobe Premiere Pro, After Effects, or Final Cut Pro.",
+        "Strong understanding of pacing, storytelling, and audio mixing.",
+        "A strong portfolio showcasing your editing capabilities."
+      ]
+    },
+    { 
+      id: 6, 
+      title: "Graphic Designer", 
+      department: "Design", 
+      type: "Full-time", 
+      location: "Hybrid", 
+      exp: "1-3 Years",
+      about: "Join our Design team as a Graphic Designer. You will help shape the visual identity of MONAVI by creating compelling graphics for marketing campaigns, social media, presentations, and print materials.",
+      responsibilities: [
+        "Design visual content for digital marketing, social media, and email campaigns.",
+        "Create marketing collateral such as brochures, pitch decks, and event banners.",
+        "Collaborate with the UI/UX team to ensure brand consistency across all touchpoints.",
+        "Stay updated with design trends and bring fresh ideas to the team."
+      ],
+      requirements: [
+        "1-3 years of experience in graphic design or visual communication.",
+        "Proficiency in Adobe Creative Suite (Illustrator, Photoshop, InDesign) and Figma.",
+        "Strong understanding of typography, color theory, and layout design.",
+        "A compelling portfolio demonstrating your creative approach."
+      ]
+    },
   ];
 
   const [selectedJob, setSelectedJob] = useState(null);
