@@ -11,19 +11,19 @@ export default function LogoMarquee() {
         >
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>
@@ -31,19 +31,19 @@ export default function LogoMarquee() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>
@@ -51,19 +51,19 @@ export default function LogoMarquee() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper">
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img loading="lazy" src="/monavi/monavi_logo.webp" style={{ height: '40px', width: 'auto' }} alt="Monavi Logo" />
+              <Image src="/monavi/monavi_logo.webp" alt="Monavi Logo" width={140} height={40} style={{ height: '40px', width: 'auto' }} />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
               <div className="rt-marquee-text-style">Health checkups</div>

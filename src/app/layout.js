@@ -1,10 +1,17 @@
 import Script from "next/script";
+import { Plus_Jakarta_Sans } from "next/font/google";
 
 import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import BookingModal from "@/components/forms/BookingModal";
 import BookingInterceptor from "@/components/forms/BookingInterceptor";
+
+const plusJakartaSans = Plus_Jakarta_Sans({ 
+  subsets: ["latin"], 
+  weight: ["400", "500", "600", "700", "800"],
+  display: "swap"
+});
 
 export const metadata = {
   metadataBase: new URL("https://monavi.com"),
@@ -37,20 +44,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning data-wf-site="696f017270bc35c55e784979" data-wf-page="696f017570bc35c55e7849ad">
       <head>
-        <link href="https://fonts.googleapis.com" rel="preconnect" />
-        <link
-          href="https://fonts.gstatic.com"
-          rel="preconnect"
-          crossOrigin="anonymous"
-        />
-        <Script src="/js/webfont.js" strategy="beforeInteractive" />
-        <Script
-          id="webfont-init"
-          strategy="beforeInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `WebFont.load({ google: { families: ["Plus Jakarta Sans:regular,500,600,700,800"] } });`,
-          }}
-        />
         <link
           href="/assets/favicon.png"
           rel="shortcut icon"
@@ -63,7 +56,7 @@ export default function RootLayout({ children }) {
         <link rel="preload" as="image" href="/monavi/new_bg.webp" />
         <link rel="preload" as="image" href="/monavi/monavi_logo.webp" />
       </head>
-      <body suppressHydrationWarning>
+      <body className={plusJakartaSans.className} suppressHydrationWarning>
         <Navbar />
         {children}
         <Footer />

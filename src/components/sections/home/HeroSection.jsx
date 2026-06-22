@@ -5,10 +5,15 @@ export default function HeroSection() {
   return (
     <section className="monavi-hero-section">
       {/* Background Image covering right side & overall aesthetic */}
-      <img 
+      <Image 
         src="/monavi/new_bg.webp" 
         alt="Hero Background" 
         className="monavi-hero-bg" 
+        width={1920}
+        height={1080}
+        priority={true}
+        fetchPriority="high"
+        quality={95}
       />
 
       <div className="monavi-hero-container">
@@ -38,21 +43,21 @@ export default function HeroSection() {
         <div className="monavi-feature-cards-wrapper" data-w-id="hero-cards">
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/ticker_icon.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <Image src="/fonts/ticker_icon.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} priority />
             </div>
             <div className="monavi-feature-title">Queue<br/>Tracking</div>
           </div>
 
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/icon_digital_prescriptions.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <Image src="/fonts/icon_digital_prescriptions.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} priority />
             </div>
             <div className="monavi-feature-title">Digital<br/>Prescriptions</div>
           </div>
 
           <div className="monavi-feature-card">
             <div className="monavi-feature-icon">
-              <img src="/fonts/icon_followup_reminders.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} />
+              <Image src="/fonts/icon_followup_reminders.svg" alt="Icon" width={22} height={22} style={{ filter: 'brightness(0) saturate(100%) invert(18%) sepia(90%) saturate(2800%) hue-rotate(188deg) brightness(88%) contrast(98%)' }} priority />
             </div>
             <div className="monavi-feature-title">Follow-up<br/>Reminders</div>
           </div>
