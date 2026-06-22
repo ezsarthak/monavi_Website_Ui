@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import RevealOnScroll from "@/components/ui/RevealOnScroll";
 
 export default function CareersFaq() {
   const faqs = [
@@ -35,49 +36,53 @@ export default function CareersFaq() {
     <section style={{ backgroundColor: '#fdfdfd', padding: '100px 0', borderTop: '1px solid #eaeaea' }}>
       <div className="w-container" style={{ maxWidth: '800px', margin: '0 auto', padding: '0 20px' }}>
         
-        <div style={{ textAlign: "center", marginBottom: "60px" }}>
-          <h2 className="rt-text-style-h2" style={{ color: '#0a0a0a' }}>Common Questions</h2>
-        </div>
+        <RevealOnScroll delay={0} yOffset={30}>
+          <div style={{ textAlign: "center", marginBottom: "60px" }}>
+            <h2 className="rt-text-style-h2" style={{ color: '#0a0a0a' }}>Common Questions</h2>
+          </div>
+        </RevealOnScroll>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           {faqs.map((faq, i) => {
             const isOpen = openIndex === i;
             return (
-              <div key={i} style={{ backgroundColor: '#fff', border: '1px solid #eaeaea', borderRadius: '12px', overflow: 'hidden' }}>
-                <button 
-                  onClick={() => toggle(i)}
-                  style={{ width: '100%', padding: '24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: 'none', border: 'none', cursor: 'pointer', textAlign: 'left' }}
-                >
-                  <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
-                    <span style={{ color: '#0f4c81', fontWeight: 'bold' }}>0{i+1}</span>
-                    <span className="rt-text-style-h6" style={{ color: '#1a1a1a', margin: 0 }}>{faq.q}</span>
-                  </div>
-                  <div style={{ position: 'relative', width: '20px', height: '20px' }}>
-                    <div style={{ position: 'absolute', top: '9px', left: 0, width: '20px', height: '2px', backgroundColor: '#1a1a1a' }} />
-                    <div style={{ position: 'absolute', top: '9px', left: 0, width: '20px', height: '2px', backgroundColor: '#1a1a1a', transform: isOpen ? 'rotate(0deg)' : 'rotate(90deg)', transition: 'transform 0.3s ease' }} />
-                  </div>
-                </button>
-                <div style={{ 
-                  display: 'grid', 
-                  gridTemplateRows: isOpen ? '1fr' : '0fr', 
-                  transition: 'grid-template-rows 0.3s ease-in-out',
-                }}>
-                  <div style={{ overflow: 'hidden' }}>
-                    <div style={{ 
-                      padding: '0 24px 24px 24px', 
-                      opacity: isOpen ? 1 : 0, 
-                      transition: 'opacity 0.3s ease-in-out',
-                      visibility: isOpen ? 'visible' : 'hidden'
-                    }}>
-                      <div style={{ paddingTop: '16px', borderTop: '1px solid #eaeaea' }}>
-                        <p style={{ color: '#4a4a4a', lineHeight: '1.6', margin: 0 }}>
-                          {faq.a}
-                        </p>
+              <RevealOnScroll key={i} delay={100 * i} yOffset={30}>
+                <div style={{ backgroundColor: '#fff', border: '1px solid #eaeaea', borderRadius: '12px', overflow: 'hidden' }}>
+                  <button 
+                    onClick={() => toggle(i)}
+                    style={{ width: '100%', padding: '24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: 'none', border: 'none', cursor: 'pointer', textAlign: 'left' }}
+                  >
+                    <div style={{ display: 'flex', gap: '16px', alignItems: 'center' }}>
+                      <span style={{ color: '#0f4c81', fontWeight: 'bold' }}>0{i+1}</span>
+                      <span className="rt-text-style-h6" style={{ color: '#1a1a1a', margin: 0 }}>{faq.q}</span>
+                    </div>
+                    <div style={{ position: 'relative', width: '20px', height: '20px' }}>
+                      <div style={{ position: 'absolute', top: '9px', left: 0, width: '20px', height: '2px', backgroundColor: '#1a1a1a' }} />
+                      <div style={{ position: 'absolute', top: '9px', left: 0, width: '20px', height: '2px', backgroundColor: '#1a1a1a', transform: isOpen ? 'rotate(0deg)' : 'rotate(90deg)', transition: 'transform 0.3s ease' }} />
+                    </div>
+                  </button>
+                  <div style={{ 
+                    display: 'grid', 
+                    gridTemplateRows: isOpen ? '1fr' : '0fr', 
+                    transition: 'grid-template-rows 0.3s ease-in-out',
+                  }}>
+                    <div style={{ overflow: 'hidden' }}>
+                      <div style={{ 
+                        padding: '0 24px 24px 24px', 
+                        opacity: isOpen ? 1 : 0, 
+                        transition: 'opacity 0.3s ease-in-out',
+                        visibility: isOpen ? 'visible' : 'hidden'
+                      }}>
+                        <div style={{ paddingTop: '16px', borderTop: '1px solid #eaeaea' }}>
+                          <p style={{ color: '#4a4a4a', lineHeight: '1.6', margin: 0 }}>
+                            {faq.a}
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
+              </RevealOnScroll>
             );
           })}
         </div>

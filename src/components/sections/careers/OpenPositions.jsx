@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import emailjs from "@emailjs/browser";
+import RevealOnScroll from "@/components/ui/RevealOnScroll";
 
 export default function OpenPositions() {
   const jobs = [
@@ -164,63 +165,69 @@ export default function OpenPositions() {
     <section id="open-positions" style={{ backgroundColor: '#ffffff', padding: '100px 0', position: 'relative' }}>
       <div className="w-container" style={{ maxWidth: '1000px', margin: '0 auto', padding: '0 20px' }}>
         
-        <div style={{ textAlign: "center", marginBottom: "60px" }}>
-          <h2 className="rt-text-style-h2" style={{ color: '#0a0a0a', marginBottom: '16px' }}>
-            Open Positions
-          </h2>
-          <p style={{ color: '#666', fontSize: '18px' }}>Join us and do the best work of your life.</p>
-        </div>
+        <RevealOnScroll delay={0} yOffset={30}>
+          <div style={{ textAlign: "center", marginBottom: "60px" }}>
+            <h2 className="rt-text-style-h2" style={{ color: '#0a0a0a', marginBottom: '16px' }}>
+              Open Positions
+            </h2>
+            <p style={{ color: '#666', fontSize: '18px' }}>Join us and do the best work of your life.</p>
+          </div>
+        </RevealOnScroll>
 
         {/* Job List */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-          {jobs.map((job) => (
-            <div 
-              key={job.id} 
-              onClick={() => setSelectedJob(job)}
-              style={{ 
-                display: 'flex', 
-                flexDirection: 'row', 
-                justifyContent: 'space-between', 
-                alignItems: 'center',
-                backgroundColor: '#ffffff', 
-                border: '1px solid #eaeaea', 
-                borderRadius: '12px', 
-                padding: '24px 32px', 
-                boxShadow: '0 2px 10px rgba(0,0,0,0.02)',
-                cursor: 'pointer',
-                transition: 'all 0.2s ease',
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.borderColor = '#0f4c81';
-                e.currentTarget.style.boxShadow = '0 4px 15px rgba(15, 76, 129, 0.1)';
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.borderColor = '#eaeaea';
-                e.currentTarget.style.boxShadow = '0 2px 10px rgba(0,0,0,0.02)';
-              }}
-            >
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                <h3 style={{ color: '#0a0a0a', fontSize: '20px', fontWeight: 'bold', margin: 0 }}>
-                  {job.title}
-                </h3>
-                <div style={{ display: 'flex', gap: '16px', color: '#666', fontSize: '14px', alignItems: 'center' }}>
-                  <span style={{ fontWeight: '500', color: '#0f4c81' }}>{job.department}</span>
-                  <span style={{ width: '4px', height: '4px', borderRadius: '50%', backgroundColor: '#ccc' }} />
-                  <span>{job.location}</span>
-                  <span style={{ width: '4px', height: '4px', borderRadius: '50%', backgroundColor: '#ccc' }} />
-                  <span>{job.type}</span>
+          {jobs.map((job, index) => (
+            <RevealOnScroll key={job.id} delay={100 * index} yOffset={40}>
+              <div 
+                onClick={() => setSelectedJob(job)}
+                style={{ 
+                  display: 'flex', 
+                  flexDirection: 'row', 
+                  justifyContent: 'space-between', 
+                  alignItems: 'center',
+                  backgroundColor: '#ffffff', 
+                  border: '1px solid #eaeaea', 
+                  borderRadius: '12px', 
+                  padding: '24px 32px', 
+                  boxShadow: '0 2px 10px rgba(0,0,0,0.02)',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease',
+                  transform: 'scale(1)'
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.borderColor = '#0f4c81';
+                  e.currentTarget.style.boxShadow = '0 8px 25px rgba(15, 76, 129, 0.15)';
+                  e.currentTarget.style.transform = 'scale(1.02)';
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.borderColor = '#eaeaea';
+                  e.currentTarget.style.boxShadow = '0 2px 10px rgba(0,0,0,0.02)';
+                  e.currentTarget.style.transform = 'scale(1)';
+                }}
+              >
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                  <h3 style={{ color: '#0a0a0a', fontSize: '20px', fontWeight: 'bold', margin: 0 }}>
+                    {job.title}
+                  </h3>
+                  <div style={{ display: 'flex', gap: '16px', color: '#666', fontSize: '14px', alignItems: 'center' }}>
+                    <span style={{ fontWeight: '500', color: '#0f4c81' }}>{job.department}</span>
+                    <span style={{ width: '4px', height: '4px', borderRadius: '50%', backgroundColor: '#ccc' }} />
+                    <span>{job.location}</span>
+                    <span style={{ width: '4px', height: '4px', borderRadius: '50%', backgroundColor: '#ccc' }} />
+                    <span>{job.type}</span>
+                  </div>
+                </div>
+                
+                <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
+                  <div style={{ color: '#1a1a1a', fontWeight: '500', fontSize: '15px', backgroundColor: '#f5f5f5', padding: '6px 12px', borderRadius: '20px' }}>
+                    {job.exp}
+                  </div>
+                  <div style={{ color: '#0f4c81', fontWeight: 'bold', fontSize: '16px' }}>
+                    View &rarr;
+                  </div>
                 </div>
               </div>
-              
-              <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
-                <div style={{ color: '#1a1a1a', fontWeight: '500', fontSize: '15px', backgroundColor: '#f5f5f5', padding: '6px 12px', borderRadius: '20px' }}>
-                  {job.exp}
-                </div>
-                <div style={{ color: '#0f4c81', fontWeight: 'bold', fontSize: '16px' }}>
-                  View &rarr;
-                </div>
-              </div>
-            </div>
+            </RevealOnScroll>
           ))}
         </div>
       </div>

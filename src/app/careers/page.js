@@ -1,4 +1,5 @@
 import React from "react";
+import "./careers.css";
 import WebflowInit from "@/components/webflow/WebflowInit";
 import WebflowPageId from "@/components/webflow/WebflowPageId";
 
@@ -17,6 +18,8 @@ export const metadata = {
   title: "Careers | Monavi",
   description: "Join Monavi to build the future of healthcare technology. View open positions and learn about life at Monavi.",
 };
+
+import RevealOnScroll from "@/components/ui/RevealOnScroll";
 
 export default function CareersPage() {
   return (
